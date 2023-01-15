@@ -1,2 +1,2 @@
 # 100_Days_Python
-New Challenge every day 
+100 Python projects
